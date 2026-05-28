@@ -41,12 +41,12 @@ This project showcases photography work, personal branding, services, and a clea
 ## 📸 Preview
 
 <p align="center">
-  <img src="./project-screenshots/homepage-preview.png" width="90%">
+  <img src="./project-screenshots/homepage.png" width="90%">
 </p>
 
 <p align="center">
-  <img src="./project-screenshots/gallery-preview.png" width="45%">
-  <img src="./project-screenshots/faq-preview.png" width="45%">
+  <img src="./project-screenshots/gallery.png" width="45%">
+  <img src="./project-screenshots/faq.png" width="45%">
 </p>
 
 ---
