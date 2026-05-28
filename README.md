@@ -45,7 +45,7 @@ This project showcases photography work, personal branding, services, and a clea
 </p>
 
 <p align="center">
-  <img src="./project-screenshots/gallery.png" width="45%">
+  <img src="./project-screenshots/work.png" width="45%">
   <img src="./project-screenshots/faq.png" width="45%">
 </p>
 
